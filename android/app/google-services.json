@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "382151174839",
+    "project_id": "coffee-5f434",
+    "storage_bucket": "coffee-5f434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382151174839:android:6d44107a55b6060f5d3b32",
+        "android_client_info": {
+          "package_name": "com.moonsolution.coffee.coffee_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382151174839-oq4m7o70h32ig4mq5knv3cs3uan35ib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbRISoZXibm7N0fDY_Z2xqvQ4UUBPUAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382151174839-oq4m7o70h32ig4mq5knv3cs3uan35ib7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382151174839-jc5hs5dn7nta973pva5qsjireu353hh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moonsolution.coffee.coffeeFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382151174839:android:056a7868195859895d3b32",
+        "android_client_info": {
+          "package_name": "com.moonsolution.coffee_rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382151174839-oq4m7o70h32ig4mq5knv3cs3uan35ib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbRISoZXibm7N0fDY_Z2xqvQ4UUBPUAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382151174839-oq4m7o70h32ig4mq5knv3cs3uan35ib7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382151174839-jc5hs5dn7nta973pva5qsjireu353hh8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.moonsolution.coffee.coffeeFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
